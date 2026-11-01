@@ -55,6 +55,8 @@ Each release also lists the SHA-256 of its APK file.
 
 No account, no login, no ads, no tracking. The only thing that leaves your phone is the link you share, which is used to look up the post's media. Saved files and your Library stay on your phone. Full details: [privacy policy](https://socsaver-resolver.hosnirachmani.workers.dev/privacy).
 
+Questions, or a request to remove content: hosnirachmani@gmail.com
+
 ## FAQ
 
 **Why isn't it on Google Play?** Play often removes apps that save media from social networks, so Refract is distributed here for now.
